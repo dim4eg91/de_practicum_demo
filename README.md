@@ -10,6 +10,9 @@
 - Windows: [docs/quickstart_windows.md](docs/quickstart_windows.md)
 - macOS/Linux: [docs/quickstart_macos_linux.md](docs/quickstart_macos_linux.md)
 
+⭐ Номинант Stepik Awards 2025 · 3100+ студентов · 4.9/5 на Stepik
+
+
 ## Что ты поймешь после demo
 
 Это не упражнение “написать один select”. Смысл demo в том, чтобы руками пройти маленький DE-процесс:
@@ -234,7 +237,15 @@ scripts\doctor.cmd
 scripts\run_checks.cmd
 ```
 
+
 Для macOS/Linux замени `.cmd` на `.sh`.
+
+### Хочу пройти полный практикум
+
+Если демо зашло и хочется собрать полный пайплайн с Spark, MinIO,
+проверкой заданий и поддержкой — посмотрите [программу практикума](https://kuzmin-dmitry.ru/de_practicum).
+Перед покупкой можно [пройти диагностику](https://kuzmin-dmitry.ru/) —
+она покажет, готовы ли вы по SQL и Python.
 
 
 ## Что входит в полный практикум
